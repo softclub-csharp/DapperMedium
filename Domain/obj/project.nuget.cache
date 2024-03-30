@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R9JznodmrnwXQjVM9OGhdpByyXz2bb/nN3ZrVmj0DTTZrQKPq0jOSsAkMBiG7/W3EmykE2DhRd546lT+/e28BA==",
+  "dgSpecHash": "6ln0HOX2ddru2FmBk+jpP8zaOoirv9pld+SSS2uYMNwJEstx5ciSAxpnnmB4SKa3RhMnnqLFI0DgJt9G5lYuOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\Dapper\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\MyData\\MyProject\\Dapper\\DapperMedium\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -10,3 +10,15 @@ C:\Users\LENOVO\Desktop\Dapper\Domain\obj\Debug\net8.0\Domain.dll
 C:\Users\LENOVO\Desktop\Dapper\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\LENOVO\Desktop\Dapper\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\LENOVO\Desktop\Dapper\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\MyData\MyProject\Dapper\DapperMedium\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\MyData\MyProject\Dapper\DapperMedium\Domain\bin\Debug\net8.0\Domain.dll
+C:\MyData\MyProject\Dapper\DapperMedium\Domain\bin\Debug\net8.0\Domain.pdb
+C:\MyData\MyProject\Dapper\DapperMedium\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyData\MyProject\Dapper\DapperMedium\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\MyData\MyProject\Dapper\DapperMedium\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\MyData\MyProject\Dapper\DapperMedium\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\MyData\MyProject\Dapper\DapperMedium\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\MyData\MyProject\Dapper\DapperMedium\Domain\obj\Debug\net8.0\Domain.dll
+C:\MyData\MyProject\Dapper\DapperMedium\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\MyData\MyProject\Dapper\DapperMedium\Domain\obj\Debug\net8.0\Domain.pdb
+C:\MyData\MyProject\Dapper\DapperMedium\Domain\obj\Debug\net8.0\ref\Domain.dll

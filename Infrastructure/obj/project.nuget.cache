@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nEuPyae9/z88+NMs7ZqXBnkaS+YWrQFTCtkD4S16HidOUyUkUbHyMSrvDESQgvyni1ZTwr9VfZH2vzfv7x6TdQ==",
+  "dgSpecHash": "676BphxdlNcJWYHwImSDaOANtUzzacwahDQhAsFDk+ar6pt8dIklEc3F4nUy9vgYNoGvYKrfmg4c6ACt/F0T2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\Dapper\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\MyData\\MyProject\\Dapper\\DapperMedium\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
