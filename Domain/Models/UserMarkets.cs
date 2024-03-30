@@ -2,6 +2,6 @@ namespace Domain.Models;
 
 public class UserMarkets
 {
-    public Users? Users { get; set; }
-    public List<Markets>? Markets { get; set; }
+    public string MarketName { get; set; }
+    public string UserName { get; set; }
 }

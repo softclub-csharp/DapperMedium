@@ -7,5 +7,5 @@ var list= service.GetUserMarkets();
 
 foreach (var um in list)
 {
-    Console.WriteLine($"market: {um.MarketName}");
+    Console.WriteLine($"UserName:{um.UserName} market: {um.MarketName}");
 }
