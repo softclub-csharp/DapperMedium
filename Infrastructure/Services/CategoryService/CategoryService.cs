@@ -22,7 +22,7 @@ public class CategoryService:ICategoryService
 
     public Categories GetCategoryById(int id)
     {
-        var sql = $"Select * from categories where id = {@id}";
+        var sql = $"Select * from categories where id = @id";
         var selected = _context.Connection().QueryFirstOrDefault(sql);
         return selected;
     }
@@ -46,7 +46,7 @@ public class CategoryService:ICategoryService
 
     public bool DeleteCategory(int id)
     {
-        var sql = $"Delete from categories where id = {@id}";
+        var sql = $"Delete from categories where id = @id";
         var deleted = _context.Connection().Execute(sql);
         if(deleted > 0) return true;
         return false;
